@@ -1,8 +1,8 @@
 {
   "name": "hws2",
-  "homepage": "http://IgnatZakalinsky.github.io/hws2",
+  "homepage": "https://Egoist66.github.io/frontend-homework-2",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "11.10.4",
     "@emotion/styled": "11.10.4",
