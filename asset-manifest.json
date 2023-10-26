@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-homework-2/static/css/main.db177a7a.css",
-    "main.js": "/frontend-homework-2/static/js/main.0c27f3c5.js",
+    "main.css": "/frontend-homework-2/static/css/main.bad1768b.css",
+    "main.js": "/frontend-homework-2/static/js/main.6768bc4f.js",
     "static/media/avatar.png": "/frontend-homework-2/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/frontend-homework-2/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
     "static/media/closeOutline.svg": "/frontend-homework-2/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
@@ -9,11 +9,11 @@
     "index.html": "/frontend-homework-2/index.html",
     "static/media/checked.svg": "/frontend-homework-2/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "static/media/burger.svg": "/frontend-homework-2/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
-    "main.db177a7a.css.map": "/frontend-homework-2/static/css/main.db177a7a.css.map",
-    "main.0c27f3c5.js.map": "/frontend-homework-2/static/js/main.0c27f3c5.js.map"
+    "main.bad1768b.css.map": "/frontend-homework-2/static/css/main.bad1768b.css.map",
+    "main.6768bc4f.js.map": "/frontend-homework-2/static/js/main.6768bc4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.db177a7a.css",
-    "static/js/main.0c27f3c5.js"
+    "static/css/main.bad1768b.css",
+    "static/js/main.6768bc4f.js"
   ]
 }
